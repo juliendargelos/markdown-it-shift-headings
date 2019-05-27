@@ -1,0 +1,9 @@
+{
+  "name": "markdown-it-shift-headings",
+  "version": "1.0.0",
+  "description": "markdown-it plugin to shift headings by given offset.",
+  "main": "index.js",
+  "repository": "https://github.com/juliendargelos/markdown-it-shift-headings",
+  "author": "Julien Dargelos <contact@juliendargelos.com>",
+  "license": "MIT"
+}

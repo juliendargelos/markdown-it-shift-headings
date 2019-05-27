@@ -19,8 +19,8 @@ npm install markdown-it-shift-headings --save
 ## Usage
 
 ```javascript
-import shiftHeadings from 'markdown-it-shift-headings'
 import MarkdownIt from 'markdown-it'
+import shiftHeadings from 'markdown-it-shift-headings'
 
 const content = `
 # Lorem
